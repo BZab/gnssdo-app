@@ -2,7 +2,7 @@ VENV    = ./.venv
 PATHCACHE   = ./cache
 PATHPYCACHE = ./__pycache__
 REQUIREMENTS = ./requirements/base.txt
-PYTHON = python3
+PYTHON = python3.6
 
 ifeq ($(OS),Windows_NT)
   ifeq ($(shell uname -s),) # not in a bash-like shell
