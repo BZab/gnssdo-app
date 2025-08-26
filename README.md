@@ -17,6 +17,10 @@ for your operating system. They are not signed, so your system may complain they
 from an unknown developer (depending on how it is configured). Double click on the
 downloaded binary to start the installation.
 
+## Installing python3.6
+
+Follow this [pyenv README](https://github.com/pyenv/pyenv?tab=readme-ov-file#linuxunix)
+
 ## Installation from source
 
 This app is written in python, so make sure your system has a suitable version of python
